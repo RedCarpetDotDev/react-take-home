@@ -20,7 +20,7 @@ This repository is a "Template Repository" which means you can make an exact cop
 
 1. Click the `Use This Template` button found in the top right corner of the files list. 
 
-2. Please name the repo `${company_name}_application`. In other words, if you're applying to "Amazing Co", name your version of this repo: `amazing_co_application`.
+2. Please name the repo `${company_name}_take_home`. In other words, if you're applying to "Amazing Co", name your version of this repo: `amazing_co_take_home`.
 
 3. Ensure you have the visibility set to **Private**, otherwise the repo will be visible to the world! Github now allows for free private repos for all.
 
