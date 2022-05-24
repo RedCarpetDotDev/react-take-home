@@ -49,5 +49,6 @@ perform a code review of the `MultipleChoiceQuestion.jsx` file.
 
 ## 📫 Submission
 - Please commit any changes you've made and make sure the `main` branch is up to date.
-- Add `rc@redcarpet.dev` as a collaborator.
+- Add the user `jaredpetker` (https://github.com/jaredpetker) as a collaborator.
+- Feel free to email me at jared@redcarpet.dev if you'd like confirmation.
 - That's it! We'll be in contact with you within 24 hours, if not the same day!
